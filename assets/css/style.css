@@ -88,9 +88,12 @@ form button:hover {
 
 @media (max-width: 767px) {
   .container {
-      max-width: 450px;
-      font-size: 15px;
-     font-weight: 700;
+      max-width: 350px;
+      font-size: 10px;
+      font-weight: 600;
+      
+      
+   ;
     
     
   }
